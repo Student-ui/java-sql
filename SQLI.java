@@ -17,7 +17,7 @@ import java.util.List;
 /**
  SQL Injection
  
- * @author JoyChou @2018.08.22
+ * @author JoyChou @2018.08.2
  */
 
 @SuppressWarnings("Duplicates")
