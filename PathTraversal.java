@@ -18,7 +18,7 @@ public class PathTraversal {
 
     protected final Logger logger = LoggerFactory.getLogger(this.getClass());
 
-    /**
+    /*
      * http://localhost:8080/path_traversal/vul?filepath=../../../../../etc/passwd
      */
     @GetMapping("/path_traversal/vul")
